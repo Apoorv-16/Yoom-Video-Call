@@ -171,7 +171,7 @@ const MeetingTypeList = () => {
           const sanitizedLink = sanitizeLink(values.link);
           console.log(sanitizedLink);
           
-          const baseUrl: string = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000';
+          // const baseUrl: string = process.env.NEXT_PUBLIC_BASE_URL || 'http://localhost:3000';
           // const newlink = `${baseUrl}/${sanitizedLink.replace(/^\//, '')}`;
           const newlink = `${sanitizedLink.replace(/^\//, '')}`;
           console.log(newlink);
