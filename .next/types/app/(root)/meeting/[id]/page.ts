@@ -1,4 +1,4 @@
-// File: D:\Apoorv\Zoom Clone\zoom-clone\app\(root)\meeting\[id]\page.tsx
+// File: D:\Apoorv\Sample changes for github\Zoom Clone\app\(root)\meeting\[id]\page.tsx
 import * as entry from '../../../../../../app/(root)/meeting/[id]/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
